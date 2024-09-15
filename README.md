@@ -13,4 +13,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/moehammad
 ---
 - 🌱 I’m currently learning Machine Learning at Bangkit Academy led by Google, Goto, Tokopedia, and Traveloka.
 - 👯 I’m looking to collaborate on Web Developing or AI Research
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/moehammad-agung-a2466022a/), [Email](mmhdagung7@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/moehammad-agung-a2466022a/)
