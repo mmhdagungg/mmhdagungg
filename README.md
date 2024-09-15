@@ -18,7 +18,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/moehammad
 
 <p align="left">
 <a href="https://github.com/mmhdagugg">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmhdagungg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmhdagungg&layout=compact&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmhdagungg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mmhdagungg&layout=compact&theme=algolia"/>
 </a>
 </p>
