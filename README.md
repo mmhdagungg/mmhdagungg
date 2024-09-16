@@ -9,7 +9,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/moehammad
 - HTML | CSS | JavaScript | Tailwind | Java
 - VBA
 - Git | GitHub
-- Visual Studi Code
+- Visual Studio Code
 
 ---
 - 🌱 I’m currently learning Machine Learning at Bangkit Academy led by Google, Goto, Tokopedia, and Traveloka.
