@@ -2,7 +2,7 @@
 
 I am an aspiring **web developer** with a passion for creating engaging, user-friendly websites. I specialize in **HTML**, **CSS**, and **JavaScript**, and enjoy building responsive designs and interactive web applications. I also have experience in **VBA automation** and have worked on developing corporate websites during my internship. Check out my projects below to see my work in action!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/moehammad-agung-a2466022a/) or follow me here on GitHub to stay updated with my latest projects.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/moehammad-agung-putra-darmawan-a2466022a) or follow me here on GitHub to stay updated with my latest projects.
 
 ---
 **Languages & Tools:**
