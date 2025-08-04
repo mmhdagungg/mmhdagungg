@@ -6,7 +6,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/moehammad
 
 ---
 **Languages & Tools:**
-- HTML | CSS | JavaScript | Tailwind | Java
+- HTML | CSS | JavaScript | React | Tailwind CSS| Java
 - VBA
 - Git | GitHub
 - Visual Studio Code
